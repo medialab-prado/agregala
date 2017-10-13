@@ -4,12 +4,12 @@
 Uno de los proyectos seleccionados para Visualizar17, Agrega.la es una red presente en Brasil, Argentina, Colombia y México, que tiene como objetivo promover la visibilización de contenidos y acciones entre medios independientes, libres o comunitarios. Su plataforma digital constantemente hace copias de los posts publicados en blogs y también Facebook (FB) de los grupos registrados; así reúne sus contenidos en un mismo espacio común y realiza continuamente una migración de datos de una plataforma cerrada y privativa para otra abierta y libre. En ella los usuarios que no tienen registro en FB pueden acceder a los contenidos de los medios libres. Además, Agrega.la también reúne contenidos de blogs por medio de RSS y Twitter.
 
 ## Equipo en Visualizar17
-[Adriano Belisário](http://github.com/belisards/)
-Daniel Santinho
-Daniela Camacho
-Henrique Parra
-Nataly Fandiño
-[Rolando Druailet](https://github.com/rdrouaillet)
+- [Adriano Belisário](http://github.com/belisards/)
+- Daniel Santinho
+- Daniela Camacho
+- Henrique Parra
+- Nataly Fandiño
+- [Rolando Druailet](https://github.com/rdrouaillet)
 
 ## Referências
 - [Plataforma web](http://agrega.la)
@@ -114,7 +114,7 @@ Ejemplo: Si leo sobre convocatorias en México, que bien tener a la derecha conv
 
 - Información de los medios/colectivos/radios:  Al clicar en un colectivo (medio) sería muy bien encontrar todos los post de ese colectivo, categorizados con los hashtags según el tema, o mostrando los hashtags arriba si el medio se dedica solo a la publicación de un tema específico . Si es posible, agregar a la derecha un pop up que cuente a que se dedica el colectivo en un breve texto, con el nombre/logo/o foto.
 
-###DISEÑO 
+### DISEÑO 
 
 -Se reconoce la necesidad de generar un concepto visual sobre el pilar de información de libre acceso de la plataforma, el cual debe ser visualmente identificable y atractivo
 
@@ -133,7 +133,7 @@ Ejemplo: Si leo sobre convocatorias en México, que bien tener a la derecha conv
 
 - Buton ver publicaciones agregadas no funciona
 
-###POSICIONAMIENTO 
+### POSICIONAMIENTO 
 
 -Este análisis va desde octubre de 2016, hasta septiembre del presente año. Según las cifras, en total han habido 962 sesiones, pero los datos varían según cada interacción del usuario. Primera (245 s), Segunda (157 s) y Tercera (88s). En este flujo se puede evidenciar que se han perdido 472 s (casi el 50 %), es decir, el interés de continuar la navegación. 
 
