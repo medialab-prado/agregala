@@ -1,7 +1,7 @@
 # Agrega.la en Visualizar17
 
 ## Resumen
-Uno de los proyectos seleccionados para Visualizar17, Agrega.la es una red presente en Brasil, Argentina, Colombia y México, que tiene como objetivo promover la visibilización de contenidos y acciones entre medios independientes, libres o comunitarios. Con 4 años desde su primero concepto, Agrega tiene hoy más de 10 mil posts de casi 40 colectivos de 5 regiones.
+Uno de los proyectos seleccionados para Visualizar17, [Agrega.la](http://www.agrega.la) es una red presente en Brasil, Argentina, Colombia y México, que tiene como objetivo promover la visibilización de contenidos y acciones entre medios independientes, libres o comunitarios. Con 4 años desde su primero concepto, Agrega tiene hoy más de 10 mil posts de casi 40 colectivos de 5 regiones.
 
 Su plataforma digital constantemente hace copias de los posts publicados en blogs y también Facebook (FB) de los grupos registrados; así reúne sus contenidos en un mismo espacio común y realiza continuamente una migración de datos de una plataforma cerrada y privativa para otra abierta y libre. En ella los usuarios que no tienen registro en FB pueden acceder a los contenidos de los medios libres. Además, Agrega.la también reúne contenidos de blogs por medio de RSS y Twitter.
 
