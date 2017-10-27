@@ -76,10 +76,6 @@ Luego del intercambio de ideas hemos llegado  a la conclusión de que debemos es
 
 El taller se centró en la exploración de esta herramienta que sirve como repositorio del código y contenido interno de Agrega.la. El propósito de esta actividad fue compartir los conceptos básicos del lenguaje informativo con los miembros del equipo que no tienen conocimiento en programación o desarrollo web.   
 
-Opinión de Nataly Fandiño 
-
-La información fue útil para entender cómo se desarrolla y diseña la página web desde el sistema operativo, para conocer algunos conceptos básicos de programación y para la exploración intuitiva del Github. Esta metodología favorece el fortalecimiento del proyecto, porque todos conocemos las diferentes áreas de trabajo y su funcionamiento; especialmente favorece la libre circulación del conocimiento. 
-
 
 Opinión de Daniela Camacho 
 
@@ -90,6 +86,12 @@ El taller nos ha acercado al lenguaje informático y nos ha hecho comprender a l
 Opinión de Daniela Camacho 
 
 El taller ha sido de gran utilidad para compartir información de softwares y plataformas, así como de continuar con la aclaración de lenguajes informáticos. Sin embargo, ha sido un poco de extrañar el uso práctico de la herramienta,  pues aunque se entiende que habrá tiempo para ésto en el proceso y la práctica personal, quienes no estamos nada familiarizados con la plataforma, no podemos valorar con cuantía los datos recibidos a falta del factor de integración.
+
+
+Opinión de Nataly Fandiño 
+
+La información fue útil para entender cómo se desarrolla y diseña la página web desde el sistema operativo, para conocer algunos conceptos básicos de programación y para la exploración intuitiva del Github. Esta metodología favorece el fortalecimiento del proyecto, porque todos conocemos las diferentes áreas de trabajo y su funcionamiento; especialmente favorece la libre circulación del conocimiento. 
+
 
 ### ACCESO Y FUNCIONALIDAD 
 
